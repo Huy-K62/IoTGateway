@@ -1,0 +1,13 @@
+./WSAN/Images/Sensor
+./WSAN/dataHN.txt
+./WSAN/gps.txt
+./WSAN/history.txt
+./WSAN/log.txt
+./WSAN/timeDetect.txt
+ttyUSB0
+19200
+ttyUSB0
+9600
+ttyUSB0
+9600
+./WSAN/thresol.txt	
